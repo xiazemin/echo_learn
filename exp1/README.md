@@ -7,6 +7,7 @@ http://www.voidcn.com/article/p-hezofvhc-bqy.html
 https://github.com/rs/cors
 https://github.com/thoas/stats
 
+http://tigerb.cn/2019/07/13/go-echo/
 
 % curl -X POST  http://localhost:1323/users -d '{"ID":"2","name":"names"}'
 {"id":"","name":""}
